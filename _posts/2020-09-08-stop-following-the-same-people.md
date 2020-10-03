@@ -30,3 +30,5 @@ I don't want to read about the new unicorn in the sky. Instead, I want to read a
 I want to listen to makers, not marketers.
 
 Pd. I feel like I have to clarify; This text doesn't aim to judge (not that anyone would care, anyway) the different ways of living people have. Just trying to share a thought and draw some attention on alternative ways of using the tools we have at hand.
+
+Originally posted on IndieHackers: https://www.indiehackers.com/post/who-clicks-on-twitter-promoted-content-2dd780459c
