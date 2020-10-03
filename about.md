@@ -5,9 +5,8 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-    for your own use upon downloading. Carry on!
-</p>
+I work as a developer in the fintech industry. Mostly JVM related stuff. Learning the indie way.
+I'm usually responsive at <a href="https://twitter.com/amvieites">@amvieites</a>.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Also: climbing and ice/inline hockey.
+</p>
