@@ -7,7 +7,7 @@ tags:
   - side jobs
   - remote
   - indiehackers
-last_modified_at: 2020-10-03T16:00:00Z
+last_modified_at: 2020-09-03T16:00:00Z
 ---
 
 We are all in here because we want to work on something that highly motivates us, aren't we?
