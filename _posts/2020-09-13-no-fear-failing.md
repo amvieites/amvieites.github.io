@@ -8,9 +8,9 @@ tags:
 last_modified_at: 2020-10-03T16:57:00Z
 ---
 
-[![No Fear - Falling](http://img.youtube.com/vi/DkLfb92Ly9U/0.jpg)](http://www.youtube.com/watch?v=DkLfb92Ly9U "Video Title")
+[![No Fear - Falling](https://img.youtube.com/vi/DkLfb92Ly9U/0.jpg)](https://www.youtube.com/watch?v=DkLfb92Ly9U "Video Title")
 
-I was checking my Youtube feed when this video came up, it's called "[No Fear - Falling](http://www.youtube.com/watch?v=DkLfb92Ly9U)".
+I was checking my Youtube feed when this video came up, it's called "[No Fear - Falling](https://www.youtube.com/watch?v=DkLfb92Ly9U)".
 
 It features the professional climber [Adam Ondra](https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw) talking about how to overcome the fear of falling when you are a rock climber.
 
