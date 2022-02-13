@@ -25,7 +25,7 @@ Personalmente creo que ya es hora de poner fin a mi etapa en Darwinex, en fintec
 
 He hablado, programado, competido, debatido, comido o compartido café con casi todos los que vais a leer este mail. Os agradezco el contacto, la cercanía y todos los momentos que han contribuido a hacer de mi estancia aquí dentro una experiencia digna de contar ahí fuera. Para todos aquellos con los que no he tenido tanto contacto o que acabáis de entrar: aprovechad el ambiente, no es así en todos los sitios.
 
-Por último, el obligatorio buen deseo de seguir en contacto y volverse a ver, muchas veces pronunciado, menos veces cumplido. Sin perder la esperanza os dejo tres formas de contacto en caso de que lo valoréis (sí, ya sé que dejar la pelota en vuestro tejado es lo fácil, pero /shrug):
+Por último, el obligatorio buen deseo de seguir en contacto y volverse a ver, muchas veces pronunciado, menos veces cumplido. Sin perder la esperanza os dejo tres formas de contacto en caso de que lo valoréis (sí, ya sé que dejar la pelota en vuestro tejado es lo fácil, pero _/shrug_):
 
 * Twitter: [@amvieites](https://twitter.com/amvieites)
 * Email: _[Redacted]_
