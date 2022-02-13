@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2020-10-03T16:04:00Z
 ---
 
-_Disclaimer: I know I risk projecting a pedantic image with the following words (also, the language doesn't help) but I only want to share my point of view on the way too many of us (and too often) just stay inside our own bubble without even thinking twice about it._
+_Disclaimer: I know I risk projecting a pedantic image with the following words (also, the language doesn't help) but I only want to share my point of view about the way too many of us (and too often) just stay inside our own bubble without even thinking twice about it._
 
 So, I decided to stop paying attention to people like me.
 
